@@ -8,6 +8,11 @@
     </strong>
 </p>
 
+<div align='center' justify='center'>
+    <img src="https://github.com/JoseFreires/Curso_Javascript_Cod3r/assets/88195769/672525a4-8b2a-4fdf-b901-69f640c6668d" width='300' margin-bottom='100'/>
+    <img src="https://github.com/JoseFreires/Curso_Javascript_Cod3r/assets/88195769/90ff261a-a85f-4989-8ecc-681c13dfd7fb" width='100'/>
+<!--     https://github.com/JoseFreires/Curso_Javascript_Cod3r/assets/88195769/ac9fc42c-a289-46a1-a06b-99cdfd5d2725 -->
+</div>
 
 
 ## Sobre cada pasta:
@@ -23,6 +28,13 @@
     <a href="#orientação-ao-objeto">Orientação ao Objeto - Básico</a> •
     <a href="#desafios">Desafios</a>
 </p>
+
+## Sobre o repositório:
+<p align="center">
+    <a href="#ferramentas">Ferramentas</a> •
+    <a href="#autor">Autor</a> 
+</p>
+
 
 ## **Basico das Funções**
 <p align="justify">
@@ -68,3 +80,31 @@
 <p>
     Nesta pasta é apresentado os desafios que o curso passa com o intuito de praticarmos os métodos passados.
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Ferramentas
+
+<p>
+    O editor de código utilizado: [VSCode](https://code.visualstudio.com/)<br>
+    Interpretador de código: [Node.js](https://nodejs.org/en/). 
+</p>
+
+## Autor
+---
+
+<a href="https://github.com/JoseFreires">
+ <img src="https://avatars.githubusercontent.com/u/88195769?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>José Freires</b></sub></a>🦊
+</a>
+
+
+Feito por José Freires 🦊🦊 
+
+Minhas redes sociais:
+
+<a href="https://www.linkedin.com/in/josé-guilherme-silva-freires-27b778227" type="_blank">
+	<img style="width: 20px;
+	cursor: pointer;" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1658073236~hmac=f40313435491c07d739bb205950cf6d4" />
+</a>
